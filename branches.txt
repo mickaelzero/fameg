@@ -1,1 +1,3 @@
 Os branches devem ser criados respeitando o template: aluno/[nome-sobrenome]
+
+Algumas dicas do uso do git: http://rogerdudler.github.io/git-guide/
